@@ -4,7 +4,7 @@
 comments
 */
 
-//TEST COMMENT
+//TESTs
 
 //Print helo world
 console.log("Hello World")
